@@ -10,7 +10,7 @@ navegador...
 ```
 apt-get update -y; 
 apt-get upgrade -y; 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; 
+wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUM/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; 
 chmod 777 install* && ./install*
 ```
 
